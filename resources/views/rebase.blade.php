@@ -10,5 +10,9 @@
 <p>Will this message disappear?</p>
 <p>What about this message?</p>
 <p>What happens here??</p>
+<<<<<<< HEAD
 <p>Can I add this??</p>
+=======
+<p>What about this one/?</p>
+>>>>>>> 1518365... This is fixup, and this time?
 </html>
