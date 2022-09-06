@@ -5,4 +5,6 @@
 <p>commit 4</p>
 <p>commit 5</p>
 <p>commit 5</p>
+<p>Will this commit disappear?</p>
+<p>What about this one?</p>
 </html>
