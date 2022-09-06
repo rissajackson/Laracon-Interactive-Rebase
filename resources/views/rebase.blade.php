@@ -7,4 +7,6 @@
 <p>commit 5</p>
 <p>Will this commit disappear?</p>
 <p>What about this one?</p>
+<p>Will this message disappear?</p>
+<p>What about this message?</p>
 </html>
